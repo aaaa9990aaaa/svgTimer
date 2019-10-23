@@ -7,7 +7,7 @@
       </linearGradient>
     </defs>
     <path :d="getD" 
-      stroke="#6d7790a8" 
+      stroke="#6d7790" 
       fill="none" 
       stroke-width="20" 
       v-bind:style="{'stroke-dasharray':getPerimeter}" >
